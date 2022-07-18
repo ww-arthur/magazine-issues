@@ -60,15 +60,8 @@ For this project my choice of frameworks/tech stacks was:
 *   Vue 3 Composition API
 *   TypeScript
 *   Flui
-    *   Flui my own CSS Toolkit, it works like Bootstrap and TailWind.
+    *   Flui my own CSS Toolkit, it works like Bootstrap and TailWind. Link: https://flui-css.netlify.app/
     
-    [
-    
-    Flui - Toolkit generator
-    
-    ![](https://www.google.com/s2/favicons?domain_url=https%3A%2F%2Fflui-css.netlify.app%2F)https://flui-css.netlify.app/
-    
-    ](https://flui-css.netlify.app/)
     
 
   
@@ -100,7 +93,7 @@ Additional/Over-engineered features
 
 Demo
 ====
-
+https://magazine-issues.netlify.app/
   
 
 Running the project
